@@ -11,6 +11,11 @@ The Curated List of Deep Learning Resources
 ## Learning Materials
 * [Tensorflow for Deep Learning Research by Stanford University](http://web.stanford.edu/class/cs20si/syllabus.html).
 
+## Popular Papers
+
+
+## Reading List
+
 <!-- * You want to create an "about me" page from a single markdown file and host it under a custom domain name.
 * You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
 * You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
