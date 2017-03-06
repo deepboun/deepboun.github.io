@@ -19,7 +19,7 @@ The Curated List of Deep Learning Resources
 * [Tensorflow for Deep Learning Research by Stanford University](http://web.stanford.edu/class/cs20si/syllabus.html).
 * [Oxford CS Deep NLP Course](https://github.com/oxford-cs-deepnlp-2017/lectures).
 * [CS 294: Deep Reinforcement Learning at Berkeley, Spring 2017](http://rll.berkeley.edu/deeprlcourse/).
-* [Neural Networks for Machine Learning - University of Toronto | Coursera](https://www.coursera.org/learn/neural-networks).
+* [Neural Networks for Machine Learning - University of Toronto - Coursera](https://www.coursera.org/learn/neural-networks).
 * [Machine Learning: 2014-2015 - University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/).
 
 ## Popular Papers
