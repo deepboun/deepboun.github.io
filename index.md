@@ -40,7 +40,7 @@ The List of Deep Learning Resources Curated by DeepBoun Team
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples).
 * [TensorFlow Models](https://github.com/tensorflow/models).
 
-## Deep Learning Programs & Summer Schools
+## Programs & Summer Schools
 * [Google Brain Residency Program](https://research.google.com/teams/brain/residency/).
 * [Deep Learning Summer School 2017 - University of Montreal](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/).
 
