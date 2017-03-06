@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The Curated List of Deep Learning Resources
+The List of Deep Learning Resources Curated by DeepBoun Team
 
 ## NLP
 
