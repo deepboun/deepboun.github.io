@@ -31,9 +31,9 @@ The List of Deep Learning Resources Curated by DeepBoun Team
 
 ## Video
 * [NIPS 2016 Workshop on Adversarial Training Videos](https://www.youtube.com/playlist?list=PLJscN9YDD1buxCitmej1pjJkR5PMhenTF).
-* [NIPS Videos](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016).
+* [NIPS 2016 Videos](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016).
 * [TensorFlow Dev Summit 2017](https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/).
-* [CS294: Deep Reinforcement Learning at Berkeley, Sprint 2017](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX).
+* [CS294: Deep Reinforcement Learning at Berkeley, Spring 2017](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX).
 * [CS224d: Deep Learning for NLP](https://www.youtube.com/watch?v=Qy0oEkCZkBI&list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG).
 
 ## Coding
