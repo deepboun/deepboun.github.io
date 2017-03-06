@@ -7,11 +7,20 @@ The Curated List of Deep Learning Resources
 ## NLP
 
 ## Tools
+* [Keras](http://www.keras.io).
+* [Microsoft CNTK](https://github.com/microsoft/cntk).
 * [Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/).
+* [MXNet](https://github.com/dmlc/mxnet).
+* [LSTMVis: A Visual Analysis Tool for RNNs](http://lstm.seas.harvard.edu/).
+* [SpaCy: Deep Learning with custom pipelines and Keras](https://explosion.ai/blog/spacy-deep-learning-keras).
+* [CNN Visualization](http://www.scs.ryerson.ca/~aharley/vis/conv/).
 
 ## Learning Materials
 * [Tensorflow for Deep Learning Research by Stanford University](http://web.stanford.edu/class/cs20si/syllabus.html).
 * [Oxford CS Deep NLP Course](https://github.com/oxford-cs-deepnlp-2017/lectures).
+* [CS 294: Deep Reinforcement Learning at Berkeley, Spring 2017](http://rll.berkeley.edu/deeprlcourse/).
+* [Neural Networks for Machine Learning - University of Toronto | Coursera](https://www.coursera.org/learn/neural-networks).
+* [Machine Learning: 2014-2015 - University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/).
 
 ## Popular Papers
 
@@ -19,12 +28,32 @@ The Curated List of Deep Learning Resources
 
 ## Video
 * [NIPS 2016 Workshop on Adversarial Training Videos](https://www.youtube.com/playlist?list=PLJscN9YDD1buxCitmej1pjJkR5PMhenTF).
+* [NIPS Videos](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016).
+* [TensorFlow Dev Summit 2017](https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/).
+* [CS 294 Deep Reinforcement Learning at Berkeley, Sprint 2017](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX).
+
+## Coding
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples).
+* [TensorFlow Models](https://github.com/tensorflow/models).
+
+## Deep Learning Programs & Summer Schools
+* [Google Brain Residency Program](https://research.google.com/teams/brain/residency/).
+* [Deep Learning Summer School 2017 - University of Montreal](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/).
 
 ## Blogs
 * [WildML](http://www.wildml.com/).
+* [Eric Jang](http://blog.evjang.com/).
+* [Gab41](https://gab41.lab41.org).
+* [Eugenio Culurciello's Blog](https://culurciello.github.io/).
 
 ## Misc
 * [Deep Learning Resources](http://www.jeremydjacksonphd.com/deep-learning-resources/).
+* [SemanticScholar.org: To search research papers](https://www.semanticscholar.org/).
+* [Practicle Deep Learning For Coders - 18 hours of lessons for free(http://course.fast.ai).
+* [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap).
+* [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/).
+* [Deep Learning Papers](https://github.com/sbrugman/deep-learning-papers/blob/master/README.md#deep-learning-papers).
+* [A Guide to Deep Learning by YN2](http://yerevann.com/a-guide-to-deep-learning/).
 
 <!-- * You want to create an "about me" page from a single markdown file and host it under a custom domain name.
 * You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
