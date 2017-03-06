@@ -7,14 +7,24 @@ The Curated List of Deep Learning Resources
 ## NLP
 
 ## Tools
+* [Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/).
 
 ## Learning Materials
 * [Tensorflow for Deep Learning Research by Stanford University](http://web.stanford.edu/class/cs20si/syllabus.html).
+* [Oxford CS Deep NLP Course](https://github.com/oxford-cs-deepnlp-2017/lectures).
 
 ## Popular Papers
 
-
 ## Reading List
+
+## Video
+* [NIPS 2016 Workshop on Adversarial Training Videos](https://www.youtube.com/playlist?list=PLJscN9YDD1buxCitmej1pjJkR5PMhenTF).
+
+## Blogs
+* [WildML](http://www.wildml.com/).
+
+## Misc
+* [Deep Learning Resources](http://www.jeremydjacksonphd.com/deep-learning-resources/).
 
 <!-- * You want to create an "about me" page from a single markdown file and host it under a custom domain name.
 * You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
