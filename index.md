@@ -45,6 +45,7 @@ The List of Deep Learning Resources Curated by DeepBoun Team
 * [Deep Learning Summer School 2017 - University of Montreal](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/).
 
 ## Blogs
+* [Andrej Karpathy's Blog](http://karpathy.github.io/).
 * [WildML](http://www.wildml.com/).
 * [Eric Jang](http://blog.evjang.com/).
 * [Gab41](https://gab41.lab41.org).
