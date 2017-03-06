@@ -49,7 +49,7 @@ The Curated List of Deep Learning Resources
 ## Misc
 * [Deep Learning Resources](http://www.jeremydjacksonphd.com/deep-learning-resources/).
 * [SemanticScholar.org: To search research papers](https://www.semanticscholar.org/).
-* [Practicle Deep Learning For Coders - 18 hours of lessons for free(http://course.fast.ai).
+* [Practicle Deep Learning For Coders - 18 hours of lessons for free](http://course.fast.ai).
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap).
 * [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/).
 * [Deep Learning Papers](https://github.com/sbrugman/deep-learning-papers/blob/master/README.md#deep-learning-papers).
