@@ -15,10 +15,13 @@ The List of Deep Learning Resources Curated by DeepBoun Team
 * [SpaCy: Deep Learning with custom pipelines and Keras](https://explosion.ai/blog/spacy-deep-learning-keras).
 * [CNN Visualization](http://www.scs.ryerson.ca/~aharley/vis/conv/).
 
-## Learning Materials
+## Courses
+* [CS231n: CNNs for Visual Recognition by Stanford University](http://cs231n.stanford.edu/syllabus.html).
+* [CS224n: NLP with Deep Learning](http://web.stanford.edu/class/cs224n/).
+* [CS224d: Deep Learning for NLP](http://cs224d.stanford.edu/syllabus.html).
 * [Tensorflow for Deep Learning Research by Stanford University](http://web.stanford.edu/class/cs20si/syllabus.html).
 * [Oxford CS Deep NLP Course](https://github.com/oxford-cs-deepnlp-2017/lectures).
-* [CS 294: Deep Reinforcement Learning at Berkeley, Spring 2017](http://rll.berkeley.edu/deeprlcourse/).
+* [CS294: Deep Reinforcement Learning at Berkeley, Spring 2017](http://rll.berkeley.edu/deeprlcourse/).
 * [Neural Networks for Machine Learning - University of Toronto - Coursera](https://www.coursera.org/learn/neural-networks).
 * [Machine Learning: 2014-2015 - University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/).
 
@@ -30,7 +33,8 @@ The List of Deep Learning Resources Curated by DeepBoun Team
 * [NIPS 2016 Workshop on Adversarial Training Videos](https://www.youtube.com/playlist?list=PLJscN9YDD1buxCitmej1pjJkR5PMhenTF).
 * [NIPS Videos](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016).
 * [TensorFlow Dev Summit 2017](https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/).
-* [CS 294 Deep Reinforcement Learning at Berkeley, Sprint 2017](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX).
+* [CS294: Deep Reinforcement Learning at Berkeley, Sprint 2017](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX).
+* [CS224d: Deep Learning for NLP](https://www.youtube.com/watch?v=Qy0oEkCZkBI&list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG).
 
 ## Coding
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples).
