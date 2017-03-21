@@ -51,6 +51,9 @@ The List of Deep Learning Resources Curated by DeepBoun Team
 * [Gab41](https://gab41.lab41.org).
 * [Eugenio Culurciello's Blog](https://culurciello.github.io/).
 
+## Tutorials
+* [NIPS 2015 Tutorial by Geoff Hinton, Yoshua Bengio and Yann LeCun](http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf)
+
 ## Misc
 * [Deep Learning Resources](http://www.jeremydjacksonphd.com/deep-learning-resources/).
 * [SemanticScholar.org: To search research papers](https://www.semanticscholar.org/).
