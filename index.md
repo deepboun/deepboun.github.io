@@ -6,6 +6,8 @@ The List of Deep Learning Resources Curated by DeepBoun Team
 
 ## NLP
 
+* [Deep Learning For NLP In Pytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
+
 ## Tools
 * [Keras](http://www.keras.io).
 * [Microsoft CNTK](https://github.com/microsoft/cntk).
